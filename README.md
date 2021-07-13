@@ -49,6 +49,26 @@ python 实现
 
 https://github.com/Nchujx/m3u8down
 
+## 使用说明
+
+1. 输入Cookie
+2. 输入视频网址
+3. 选择下载序列
+4. 等待下载完成
+
+支持网址类型：
+
+```
+course ： https://huke88.com/course/67827.html
+career ： https://huke88.com/career/65.html
+training ： https://huke88.com/training/1203.html
+live ： https://huke88.com/live/202.html
+route ： https://huke88.com/route/ps.html
+keyWorld ： https://huke88.com/search/video?keyWorld=C4D
+```
+
+**仅支持有权限观看的课程**
+
 ## 成品
 
 https://github.com/Nchujx/huke/releases
@@ -59,5 +79,7 @@ https://github.com/Nchujx/huke/releases
 
 
 
+[![WE8DsO.png](https://z3.ax1x.com/2021/07/13/WE8DsO.png)](https://imgtu.com/i/WE8DsO)
 
+虎课7天VIP分享
 
